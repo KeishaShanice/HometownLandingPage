@@ -1,0 +1,167 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    margin: 0px;
+    padding: 0px;
+}
+
+body {
+    width: 720px;
+    color: #1D3557;
+    font-family: 'Ibarra Real Nova', serif;
+}
+
+a {
+    text-decoration: none;
+    color: #1D3557;;
+}
+
+a:hover {
+    color: teal;
+}
+
+.italics {
+    font-style: italic;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.laurel {
+    font-family: 'Arima', cursive;
+    font-weight: 100;
+}
+
+.laurel:hover {
+    color: teal;
+}
+
+/* header */
+header {
+    background-color: #F1FAEE;
+    height: 40px;
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+}
+
+/* nav */
+nav {
+    background-color: #F1FAEE;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+}
+
+nav ul li {
+    margin: 10px;
+}
+
+/* hero */
+#hero {
+    background-image: url("../media/laurel.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 350px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: whitesmoke;
+}
+
+h1 {
+    background-color: #1D3557;
+    border-radius: 5px;
+    padding: 0px 10px;
+    font-size: 32px;
+    font-weight: 500;
+}
+
+#hero p {
+    background-color: #457B9D;
+    border-radius: 5px;
+    padding: 2px 8px;
+    margin-top: 10px;
+    font-size: 18px;
+}
+
+/* activities */
+#activities img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+}
+
+#activities {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 350px;
+    background-color: #F1FAEE;
+    font-size: 16px;
+}
+
+#activities h2 {
+    font-size: 18px;
+    margin: 10px;
+}
+
+.theater {
+    padding-left: 50px;
+}
+
+.sports {
+    padding-right: 50px;
+}
+
+.museum {
+    padding: 0px 30px;
+}
+
+.theater p, .sports p, .museum p {
+    margin: 10px;
+}
+
+/* guide */
+#guide{
+    height: 350px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    width: 400px;
+    height: 300px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #A8DADC;
+    border-radius: 8px;
+    border-bottom: 6px solid #1D3557;
+    padding: 20px;
+}
+
+.card img {
+    width: 180px;
+    height: 250px;
+    border: 2px solid #1D3557;
+    border-radius: 8px;
+    margin-top: 5px;
+    margin-right: 5px;
+}
+
+.card p {
+    font-size: 16px;
+    margin-top: 20px;
+}
+
+.cardInfo {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

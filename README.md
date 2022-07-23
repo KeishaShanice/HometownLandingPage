@@ -4,7 +4,8 @@
 <p>Link To Project: https://keishashanice.github.io/HometownLandingPage/</p>
 
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
+  <img src="https://media.giphy.com/media/M8oLMV4ZuhOZWeNkGU/giphy.gif" />
+  
 </div>
 
 <h2>How It's Made:</h2>

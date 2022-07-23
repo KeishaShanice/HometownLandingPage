@@ -1,18 +1,18 @@
-Hometown Landing Page
+<h1>Hometown Landing Page</h1>
 
-A simple landing page for a town/city.
-Link To Project: https://keishashanice.github.io/HometownLandingPage/
+<p>A simple landing page for a town/city.</p>
+<p>Link To Project: https://keishashanice.github.io/HometownLandingPage/</p>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="200"/>
 </div>
 
-How It's Made:
-Technologies used include HTML, CSS
-I started with building the framework in HTML. It was a simple build. The bulk of my time was taken on the CSS. 
+<h2>How It's Made:</h2>
+<p>Technologies used include HTML, CSS</p>
+<p>I started with building the framework in HTML. It was a simple build. The bulk of my time was taken on the CSS. </p>
 
-Optimizations:
-In addition to the project requirements, I added navigational links and a hover effect that changes the color of certain words
+<h2>Optimizations:</h2>
+<p>In addition to the project requirements, I added navigational links and a hover effect that changes the color of certain words</p>
 
-Lessons Learned:
-With this project, I was able to become more comfortable with flex box.
+<h2>Lessons Learned:</h2>
+<p>With this project, I was able to become more comfortable with flex box.</p>
